@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1920"
+   height="1080"
+   id="svg4186"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   viewBox="0 0 1920 1080"
+   sodipodi:docname="kids_house_wall.svg">
+  <defs
+     id="defs4188" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.21213203"
+     inkscape:cx="798.89336"
+     inkscape:cy="864.6634"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4191">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="opacity:1;fill:#e2d3a7;fill-opacity:1"
+       id="rect4734"
+       width="1920"
+       height="1080"
+       x="0"
+       y="-1.8733755" />
+    <ellipse
+       style="opacity:1;fill:#e4d6ad;fill-opacity:1"
+       id="path4752"
+       cx="970"
+       cy="558.33331"
+       rx="863.33331"
+       ry="481.66666" />
+    <g
+       id="g4756">
+      <path
+         sodipodi:nodetypes="cccccccsccccccccccsccccccc"
+         inkscape:connector-curvature="0"
+         id="rect4747"
+         d="m 1526.4393,0.31605785 18.3903,-1.1493923 C 1529.4466,24.511501 1527.739,44.103572 1504.6008,69.279595 c -6.5374,5.551465 -13.1109,10.887123 -19.1233,19.589229 -3.5197,7.576171 -2.3216,13.737086 -0.499,19.710596 l 17.4063,23.06469 0.077,8.49065 c -1.0828,-1.47078 16.4762,11.45747 15.3468,11.86055 -0.2793,0.0997 7.7358,10.50807 7.7358,10.50807 l 14.1047,39.23549 -6.3046,12.65877 6.5404,13.65591 -10.3481,24.63412 6.8437,-25.52137 -8.3101,-10.72251 7.1805,-15.61778 -12.1102,-35.01942 c -5.3321,-13.81128 -17.4424,-18.31019 -17.4424,-18.31019 0.8664,-3.46539 -14.2983,-8.16331 -12.8664,-7.6875 11.1807,3.71517 -1.7646,-19.65643 -10.122,-26.10405 l -2.3549,7.438 0.6813,-11.94892 c -3.2471,-4.80728 -2.3226,-12.743283 -1.3326,-20.728388 3.8403,-8.226592 8.4157,-14.363058 17.9367,-22.024566 17.9609,-14.82179 37.6293,-56.192786 28.7986,-66.12491815 z"
+         style="opacity:1;fill:#352a08;fill-opacity:1" />
+      <path
+         style="opacity:1;fill:#352a08;fill-opacity:1"
+         d="m 1539.3704,199.60592 -10.4386,12.9982 c 27.6281,4.16908 43.6978,14.98252 75.2215,13.26708 7.6962,-1.44803 15.2441,-3.05618 25.1094,-2.16923 7.6987,2.05022 11.851,6.74387 15.534,11.78728 l 8.8376,27.20223 6.54,5.29535 c -0.5778,-1.71441 0.3249,19.34859 1.2237,18.75537 0.222,-0.14719 4.1272,12.24818 4.1272,12.24818 l 23.0834,34.71696 13.0832,3.10997 7.1874,13.29903 24.4633,7.48342 -23.3313,-10.64285 -3.9953,-12.80857 -15.8312,-4.2824 -20.8518,-30.62935 c -7.9349,-12.49439 -5.1341,-24.29616 -5.1341,-24.29616 -3.1353,-1.49198 1.0973,-15.69321 0.7225,-14.33235 -2.9255,10.62537 -14.317,-13.44112 -14.9746,-23.64779 l 6.9868,2.83319 -9.6138,-6.86332 c -2.0398,-5.38574 -8.6698,-9.59235 -15.3721,-13.78025 -8.369,-2.21261 -15.5001,-2.58785 -26.3807,-0.21752 -20.8114,4.24388 -63.0842,-6.61749 -66.1964,-19.32659 z"
+         id="path4750"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccccccsccccccccccsccccccc" />
+    </g>
+    <ellipse
+       ry="251.66666"
+       rx="451.08417"
+       cy="681.66663"
+       cx="972.24915"
+       id="ellipse4754"
+       style="opacity:0.693;fill:#e7dbb8;fill-opacity:1" />
+  </g>
+</svg>
